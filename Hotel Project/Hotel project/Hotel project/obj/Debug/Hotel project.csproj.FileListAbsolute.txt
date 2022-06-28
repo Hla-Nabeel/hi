@@ -1,0 +1,40 @@
+D:\Hotel project\Hotel project\bin\Debug\Hotel project.exe.config
+D:\Hotel project\Hotel project\bin\Debug\Hotel project.exe
+D:\Hotel project\Hotel project\bin\Debug\Hotel project.pdb
+D:\Hotel project\Hotel project\obj\Debug\Hotel project.csprojResolveAssemblyReference.cache
+D:\Hotel project\Hotel project\obj\Debug\Hotel_project.Form1.resources
+D:\Hotel project\Hotel project\obj\Debug\Hotel_project.Properties.Resources.resources
+D:\Hotel project\Hotel project\obj\Debug\Hotel project.csproj.GenerateResource.Cache
+D:\Hotel project\Hotel project\obj\Debug\Hotel project.exe
+D:\Hotel project\Hotel project\obj\Debug\Hotel project.pdb
+D:\Hotel project\Hotel project\obj\Debug\Hotel_project.Form2.resources
+D:\Hotel project\Hotel project\obj\Debug\Hotel_project.Forms.FormCustomer.resources
+D:\Hotel project\Hotel project\obj\Debug\Hotel_project.Forms.Formbooking.resources
+D:\Hotel project\Hotel project\obj\Debug\Hotel_project.Forms.Formreports.resources
+D:\Hotel project\Hotel project\obj\Debug\Hotel_project.Forms.Formpayment.resources
+D:\Hotel project\Hotel project\obj\Debug\Hotel_project.Forms.Formrooms.resources
+D:\Hotel project\Hotel project\obj\Debug\Hotel_project.reportForm3.resources
+D:\Hotel project\Hotel project\obj\Debug\RdlCompile.cache
+D:\Hotel project\Hotel project\obj\Debug\RdlCompile.compiled
+D:\Hotel project\Hotel project\obj\Debug\Hotel_project.room_report.resources
+D:\Hotel project\Hotel project\obj\Debug\Hotel_project.form3customer.resources
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\bin\Debug\Hotel project.exe.config
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel project.exe
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel project.pdb
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\bin\Debug\Hotel project.exe
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\bin\Debug\Hotel project.pdb
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel project.csprojResolveAssemblyReference.cache
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel_project.Form1.resources
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel_project.Form2.resources
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel_project.form3customer.resources
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel_project.Forms.Formbooking.resources
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel_project.Forms.FormCustomer.resources
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel_project.Forms.Formpayment.resources
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel_project.Forms.Formreports.resources
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel_project.Forms.Formrooms.resources
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel_project.Properties.Resources.resources
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel_project.reportForm3.resources
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel_project.room_report.resources
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\Hotel project.csproj.GenerateResource.Cache
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\RdlCompile.cache
+C:\Users\Hlaa\Desktop\Hotel Project\Hotel project\Hotel project\obj\Debug\RdlCompile.compiled
